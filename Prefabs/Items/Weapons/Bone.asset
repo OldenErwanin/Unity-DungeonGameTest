@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b43c2f3508784c84fa53f51d546038b3, type: 3}
+  m_Name: Bone
+  m_EditorClassIdentifier: 
+  weaponType: 2
+  isTwoHanded: 0
+  weaponDamage: 8
+  weaponDurability: 2
+  weaponKnockbackRate: 0
+  weaponAnimation: {fileID: 7400000, guid: 9351478f558cb0147b2a8075d88d6996, type: 2}
+  weaponColliderSize: {x: 0.67, y: 0.97}
+  weaponColliderOffset: {x: 0, y: 0}
